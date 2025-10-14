@@ -1,0 +1,177 @@
+﻿l_english:
+# EUROPE
+
+ # HOHENZOLLERN
+
+  KFR_neutrality_party:0 "House of Hohenzollern"
+  KGZ_neutrality_party:0 "House of Hohenzollern"
+  KVG_neutrality_party:0 "House of Hohenzollern"
+  KHO_neutrality_party:0 "House of Hohenzollern"
+  KBI_neutrality_party:0 "House of Hohenzollern"
+  KSB_neutrality_party:0 "House of Hohenzollern"
+  KPR_neutrality_party:0 "House of Hohenzollern"
+  KNP_neutrality_party:0 "House of Hohenzollern"
+  KSP_neutrality_party:0 "House of Hohenzollern-Sigmaringen"
+  
+ # HABSBURG-LORRAINE
+
+  KAU_neutrality_party:0 "House of Habsburg-Lorraine"
+  KCZ_neutrality_party:0 "House of Habsburg-Lorraine"
+  KSL_neutrality_party:0 "House of Habsburg-Lorraine" # balkan leader
+  KCR_neutrality_party:0 "House of Habsburg-Lorraine" # balkan leader
+  KSI_neutrality_party:0 "House of Habsburg-Lorraine"
+  KVE_neutrality_party:0 "House of Habsburg-Lorraine" # italian leader
+  KTO_neutrality_party:0 "House of Habsburg-Lorraine" # italian leader
+  KHU_neutrality_party:0 "House of Habsburg-Lorraine"
+
+ # ITALIAN MONARCHS (or churches)
+
+  KVC_neutrality_party:0 "Catholic Church"
+  KNE_neutrality_party:0 "House of Bourbon-Two Sicilies"
+  KSZ_neutrality_party:0 "House of Bourbon-Two Sicilies"
+  KIT_neutrality_party:0 "House of Savoy"
+
+ # URACH
+
+
+  KLI_neutrality_party:0 "House of Urach"
+  KWR_neutrality_party:0 "House of Urach"
+
+ # SCANDINAVIA
+
+  KDE_neutrality_party:0 "House of Schleswig-Holstein-Sonderburg-Glücksburg"
+  KNO_neutrality_party:0 "House of Schaumburg-Lippe"
+  KFI_neutrality_party:0 "House of Hesse-Kassel"
+  KSW_neutrality_party:0 "House of Bernadotte"
+
+ # BRITISH ISLES
+
+  KBR_neutrality_party:0 "House of Windsor"
+  KWE_neutrality_party:0 "House of Paget"
+  KMS_neutrality_party:0 "Kaiserliche Marine"
+
+  # Wittelsbach
+
+  KSC_neutrality_party:0 "House of Wittelsbach"
+  KIR_neutrality_party:0 "House of Wittelsbach"
+  KFE_neutrality_party:0 "House of Wittelsbach"
+  KBV_germanpuppet_neutrality_party:0 "House of Wittelsbach"
+
+ # FREAKY AHH BELGIANS
+
+  KBE_neutrality_party:0 "House of Saxe-Coburg and Gotha"
+  KFL_neutrality_party:0 "House of Saxe-Coburg and Gotha"
+
+  # THOSE POLISH GUYS
+
+  KPO_neutrality_party:0 "House of Lubomirski"
+  KUK_neutrality_party:0 "House of Skoropadsky"
+  KRI_neutrality_party:0 "House of Skoropadsky"
+
+ # BALKANS
+  KSR_neutrality_party:0 "House Karađorđević"
+  KAB_neutrality_party:0 "House of Wied-Neuwied"
+  KBU_neutrality_party:0 "House of Saxe-Coburg and Gotha-Koháry"
+  KGR_neutrality_party:0 "House of Glücksburg"
+  KTR_neutrality_party:0 "House of Stirbei"
+  KRO_neutrality_party:0 "House of Hohenzollern-Sigmaringen"
+  KMO_neutrality_party:0 "House of Hohenzollern-Sigmaringen"
+
+ # Asia
+
+  KAN_neutrality_party:0 "House of Osman"
+  KKR_neutrality_party:0 "Barzanji Clan"
+  KNH_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KWS_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KPE_neutrality_party:0 "House of Reuss"
+  
+  
+  # HASHEMITES
+  
+  KIQ_neutrality_party:0 "House of Hashim"
+  KPS_neutrality_party:0 "House of Hashim"  
+  KHJ_neutrality_party:0 "House of Hashim"   
+  KNH_syria_collab_neutrality_party:0 "House of Hashim"    
+  
+  
+  # VARIOUS ARABS
+  
+  KJS_neutrality_party:0 "Rashidi Dynasty"
+  KNJ_neutrality_party:0 "House of Saud"  
+  KNR_neutrality_party:0 "Shibami Dynasty"
+  KYM_neutrality_party:0 "Yahya Dynasty"
+  KON_neutrality_party:0 "Al Bu Said Dynasty"
+  KGU_neutrality_party:0 "Al Maktoum Dynasty"
+  KNJ_cucked_neutrality_party:0 "The Ikhwan"  
+ # MILITARSTAATS/MARINESTAATS
+
+  KMR_neutrality_party:0 "Deutsches Heer"
+  KNJ_army_state_neutrality_party:0 "Deutsches Heer"
+  KMZ_neutrality_party:0 "Kaiserliche Marine"
+  KMC_neutrality_party:0 "Kaiserliche Marine"
+  KMG_neutrality_party:0 "Kaiserliche Marine"
+  KMK_neutrality_party:0 "Kaiserliche Marine"
+
+ # THE OTHERS
+  KBD_neutrality_party:0 "House of Ascania"
+  KLV_neutrality_party:0 "House of Mecklenburg-Schwerin" 
+  KKZ_neutrality_party:0 "Independent Military Government"
+  KNC_neutrality_party:0 "Regional Council"
+  KNP_neutrality_party_rudiger:0 "Provisorische Militärverwaltung"
+  KKA_neutrality_party_corporate:0 "Krupp AG Hoesch-Krupp"
+  KEP_neutrality_party:0 "Vorübergehende Militärverwaltung"
+  KBV_neutrality_party:0 "Bayerische Unabhängigkeitsbewegung"
+
+  # TURKESTAN
+
+  KTU_neutrality_party:0 "Manghit Dynasty"
+  KAO_neutrality_party:0 "Alash Party"
+
+  # AFRIKA
+
+  KSE_neutrality_party:0 "Deutsches Expeditionskorps"
+  KNA_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KWA_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KMA_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KOA_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KSA_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KSD_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KWZ_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KKM_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KPM_neutrality_party:0 "Alawi Dynasty"
+  KEG_neutrality_party:0 "House of Alawiyya"
+  KBY_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KBY_neutrality_party_collaboration:0 "House of Shewa"
+  KPC_neutrality_party:0 "Vai Monarchy"
+  KIC_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KGC_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KNI_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KKO_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KCA_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KTA_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KZA_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KRH_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KSO_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KJA_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KKU_neutrality_party:0 "Deutsche Kolonialverwaltung"
+  KCH_neutrality_party:0 "Deutsche Kolonialverwaltung"
+
+
+
+  # Cossacks
+
+  KKH_neutrality_party:0 "Naumenko Cossack Family"
+  KDH_neutrality_party:0 "Golubintzev Cossack Family"
+
+  # Mukhrani
+
+  KKA_neutrality_party:0 "House of Mukhrani"
+  KRM_neutrality_party:0 "House of Mukhrani"
+
+  # Middle-East
+
+  KFG_neutrality_party:0 "House of Barakzai"
+
+  # That weird russian guy
+
+  KRU_neutrality_party:0 "House of Holstein-Gottorp-Romanov"

@@ -1,0 +1,9 @@
+﻿l_english:
+ RP_GER_balkan_sweep:0 "The Balkan Sweep"
+ RP_GER_balkan_sweep_desc:0 "[YUG.GetNameDefCap] and [ROM.GetNameDef] holds lands claimed by us and our allies. Along with this fact and their inevitable collaboration with [SOV.GetNameDef] or the West, we must deal with them before it's too late."
+ RP_GER_balkan_sweep_trigger_tt:0 "§Y[GER.GetNameDefCap]§!, or an ally, neighbors §Y[YUG.GetNameDef]§! or §Y[ROM.GetNameDef]§!."
+ RP_GER_balkan_sweep_effect_tt.1:0 "The war will begin in 35 days."
+ RP_GER_balkan_sweep_effect_tt.2:0 "If Italy, Hungary, Albania, or Bulgaria is in a faction with us and joins the war, they will split the conquered lands with us upon our enemies' capitulation."
+
+ RP_GER_operation_oscar:0 "Operation Oskar"
+ RP_GER_operation_oscar_desc:0 "Dutch Ports and Supply Hubs in the Netherlands are crucial in the war against France and the United Kingdom. With the invasion of Belgium, we now have a clear path to Amsterdam and The Hague."

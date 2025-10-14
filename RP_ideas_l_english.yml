@@ -1,0 +1,12 @@
+﻿l_english:
+ RP_new_regime:0 "New Regime"
+ RP_new_regime_desc:0 "Following the establishment of [ROOT.GetNameDef], several problems have arose in the administration.\n\nOne issue is that the populace does not accept German rule. This has caused many workers to quit as an act of protest. This has hurt the speed at which the government can operate. It will take time to integrate the people into their new government.\n\nAnother issue is that major branches of the government are incredibly disorganized. Setting up a new regime as drastic as ours takes a massive amount of resources and time, and it's slowing down the government."
+ RP_puppet_of_the_kaiserreich:0 "Puppet of the Kaiserreich"
+ RP_militarstaat:0 "Militärstaat"
+ RP_marinestaat:0 "Marinestaat"
+ RP_easterntreaty:0 "Second Treaty of Brest-Litovsk"
+ RP_westerntreaty:0 "Treaty of Munich"
+ RP_SOV_german_espionage:0 "German Espionage"
+ RP_corporate_state:0 "Corporate State"
+ RP_recovering_from_unification:0 "Recovering from Unification"
+ RP_operation_oscar:0 "Operation Oskar"
