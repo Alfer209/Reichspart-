@@ -57,6 +57,12 @@
  RP_countryevents.7.a:0 "Keep them united"
  RP_countryevents.7.b:0 "Split it"
 
+ RP_countryevents.8.t:0 "Fate of Norway"
+ RP_countryevents.8.d:0 "Norway has had a complicated history. It has been subjugated by many different empires, including Denmark, Sweden, the British, and many more. Now we can finally decide who will get the claim once and for all."
+ RP_countryevents.8.a:0 "Establish [KNO.GetNameDef]"
+ RP_countryevents.8.b:0 "Give it to [KDE.GetNameDef]"
+ RP_countryevents.8.c:0 "Give it to [KSW.GetNameDef]"
+
  RP_countryevents.9.t:0 "Fate of Kurdistan"
  RP_countryevents.9.d:0 "The Kurdish territories are now in our hands. Should we recognize Kurdish autonomy, or entrust the region to our loyal Turkish allies?"
  RP_countryevents.9.a:0 "Form [KKR.GetNameDef]"
@@ -171,6 +177,12 @@
  RP_countryevents.32.a:0 "Establish [KFE.GetNameDef]"
  RP_countryevents.32.b:0 "Give it to [KWS.GetNameDef]"
  RP_countryevents.32.c:0 "Give it to [KRU.GetNameDef]"
+
+ RP_countryevents.33.t:0 "Fate of Courland and Semigallia"
+ RP_countryevents.33.d:0 "Courland was a proposed client state following the Brest-Litovsk treaty in the Great War. Now that we control the area once more, we can choose what to do with it."
+ RP_countryevents.33.a:0 "Establish [KCS.GetNameDef]"
+ RP_countryevents.33.b:0 "Give it to [KLV.GetNameDef]"
+ RP_countryevents.33.c:0 "Give it to [KLI.GetNameDef]"
  
  RP_territorialevents.1.t:0 "Calais Question"
  RP_territorialevents.1.d:0 "The occupation of Calais has left major players in the Occupational Government and German Cabinet debating what to do with it."
@@ -438,11 +450,6 @@
  RP_territorialevents.46.a:0 "Give it to [KLV.GetNameDef]"
  RP_territorialevents.46.b:0 "We'll take it"
 
- RP_territorialevents.47.t:0 "Courland and Semigallia Question"
- RP_territorialevents.47.d:0 "The occupation of Courland and Semigallia has left major players in the Occupational Government and German Cabinet debating what to do with it."
- RP_territorialevents.47.a:0 "Give it to [KLV.GetNameDef]"
- RP_territorialevents.47.b:0 "Give it to [KLI.GetNameDef]"
-
  RP_territorialevents.48.t:0 "Cornwall Question"
  RP_territorialevents.48.d:0 "The occupation of Cornwall has left major players in the Occupational Government and German Cabinet debating what to do with it."
  RP_territorialevents.48.a:0 "Give it to [KMS.GetNameDef]"
@@ -580,6 +587,8 @@
  RP_peacetreatyevents.3.t:0 "[SOV.GetNameDefCap] Declines"
  RP_peacetreatyevents.3.d:0 "[SOV.GetNameDefCap] has declined our offer for peace. War rages on.."
  RP_peacetreatyevents.3.a:0 "They will regret it"
+
+ # Misc Events
  
  RP_miscevents.1.t:0 "Alfried Krupp Approaches Us"
  RP_miscevents.1.d:0 "Alfried Krupp, owner of Friedrich Krupp AG Hoesch-Krupp, has approached us today with a proposal.\n\nHis company, with himself as the leader, will setup a government in [KKA.GetNameDef], dissolving the current government there. He says he will take control of the resources and manage the region to turn it into a massive Corporate State.\n\nShould we accept, or should we get rid of him?"
@@ -600,6 +609,8 @@
  RP_miscevents.4.d:0 "The time has come to complete the union. The final preparations have been made and it is now time to choose a leader."
  RP_miscevents.4.a:0 "[KPR.GetLeader]"
  RP_miscevents.4.b:0 "[KSP.GetLeader]"
+
+ # Austrian Stuff
 
  RP_austrian_unification.1.t:0 "Fate of [KCZ.GetNameDef]"
  RP_austrian_unification.1.d:0 "Now that we are beginning the reformation of the Austrian Empire, we must decide what to do with [KCZ.GetNameDef]"
@@ -651,6 +662,8 @@
  RP_austrian_unification.8.b:0 "Form a new Crown in [KTR.GetNameDef]"
  RP_austrian_unification.8.c:0 "[KTR.GetNameDefCap] shall remain a subject of Germany"
  RP_austrian_unification.8.e:0 "Give it to [KAU.GetNameDef]"
+
+ # Ottoman Stuff
 
  RP_ottoman_unification.1.t:0 "Restore the Ottoman Sultanate?"
  RP_ottoman_unification.1.d:0 "The Ottoman Empire, once the dominant force in Eastern Europe and the Middle East, was a 600-year-long great empire that toppled Constantinople and brought the great powers to their knees. However, it has been largely lost to history. However, now that we have re-established control over the area, some are proposing we revive the lost empire.\n\nWhile it may sound crazy, propping up an Ottoman Sultanate would not be difficult, especially with German dominance over the region. This would, of course, come at the risk of [KAN.GetLeader] betraying us sometime in the future, and if we gave him all the proposed land, it's possible he could succeed in securing independence.\n\nIt is up to the Kaiser, however. What should we do?"
@@ -741,6 +754,8 @@
  RP_ottoman_unification.18.d:0 "Now that we are beginning the reformation of the Ottoman Sultanate, we must decide what to do with [KEG.GetNameDef]"
  RP_ottoman_unification.18.a:0 "Give it to [KAN.GetNameDef]"
  RP_ottoman_unification.18.b:0 "[KEG.GetNameDefCap] will remain under German Subjugation"
+
+ # Arab Stuff
  
  RP_arabevents.1.t:0 "The Battle of Ha'il"
  RP_arabevents.1.d:0 "This morning, Nejdi forces under the command of Abdulaziz bin Saud launched a daring and reckless full-scale assault on the Rashidi capital of Ha'il, marking a dangerous escalation in the long-standing familial rivalry. Our garrisons, ever vigilant, relayed word of the impending offensive in time for the Rashid royal family to be evacuated to a secure location just beyond the city’s perimeter. Despite this, the streets of Ha'il quickly descended into chaos, with gunfire and smoke choking the early light. Alarming reports from the front claim that even soldiers of the Kaiserreich—stationed nearby to ensure stability—were inadvertently drawn into the melee. Some eyewitnesses go further, alleging that German advisors were seen providing assistance to both sides, raising troubling questions of divided loyalties within our ranks. The High Command views this with utmost seriousness and has begun a formal inquiry into the conduct of all vassal forces involved."
@@ -795,6 +810,8 @@
  RP_arabnews.1.a:0 "Umm... Congratulations?"
  RP_arabnews.1.b:0 "Ah, what the hell..."
 
+ # Name Changes
+
  RP_namechanges.1.t:0 "Change the name to Flanders-Wallonia?"
  RP_namechanges.1.d:0 "This is just a choice to rename this country."
  RP_namechanges.1.a:0 "Yes!"
@@ -842,3 +859,16 @@
  RP_focustreenewsevents.1.b:0 "Good luck to them."
  RP_focustreenewsevents.1.c:0 "Long live our great nations!"
  RP_focustreenewsevents.1.e:0 "They can't keep getting away with this!"
+
+ RP_frenchcollapsenews.1.t:0 "The Congolese Revolt"
+ RP_frenchcollapsenews.1.d:0 "This morning, Congolese militiamen carried out raids against the Belgian colonial administration, now in exile after Germany’s victory in Europe. The deadliest attack came when five armed men stormed a government building in Brazzaville, killing twelve and injuring more than forty before escaping into the outskirts.\n\nThe assault reflects mounting resentment toward the exiled Belgian government, which relocated to Brazzaville after the armistice with Germany. Officials denounced the raids as “acts of treachery” and pledged to restore order, but with unrest spreading and Europe still unsettled, many fear the Congo is sliding into open revolt."
+ RP_frenchcollapsenews.1.a:0 "Does this mean the Colonial Age for Africa is coming to an end?"
+
+ RP_frenchcollapse.1.t:0 "[BEL.GetNameDef] moves government to Léopoldville"
+ RP_frenchcollapse.1.d:0 "After Belgian forces were expelled from Europe, the former Belgian government relocated to Léopoldville. With this relocation now complete, [COG.GetNameDef] has been removed from power, and direct Belgian authority has been installed in its place."
+ RP_frenchcollapse.1.a:0 "Fine.."
+ 
+ RP_frenchcollapse.2.t:0 "The Congolese Revolt Begins"
+ RP_frenchcollapse.2.d:0 "Earlier this morning, Congolese militiamen launched raids against our government. The most significant of these occurred when five men entered a government building in Léopoldville and opened fire. So far, 12 people have been killed and more than 40 injured.\n\nIt is clear that the Congo is now in full revolt."
+ RP_frenchcollapse.2.a:0 "We will give in, the Belgian government will be no more."
+ RP_frenchcollapse.2.b:0 "We will fight on, if necessary for years, if necessary alone!"

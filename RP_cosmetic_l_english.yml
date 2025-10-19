@@ -274,6 +274,15 @@
  RP_iberianunion_neutrality:0 "Vereinigtes Königreich von Iberien"
  RP_iberianunion_neutrality_DEF:0 "das Vereinigte Königreich von Spanien und Portugal"
 
+ KDE_denmarknorway_democratic:0 "Republic of Denmark-Norway"
+ KDE_denmarknorway_democratic_DEF:0 "the Republic of Denmark-Norway"
+ KDE_denmarknorway_fascism:0 "Empire of the North Sea"
+ KDE_denmarknorway_fascism_DEF:0 "the Empire of the North Sea"
+ KDE_denmarknorway_communism:0 "Socialist Republic of Denmark-Norway"
+ KDE_denmarknorway_communism_DEF:0 "the Socialist Republic of Denmark-Norway"
+ KDE_denmarknorway_neutrality:0 "Königreich Dänemark-Norwegen"
+ KDE_denmarknorway_neutrality_DEF:0 "das Königreich Dänemark-Norwegen"
+
  # Optional Name Changes 
 
  KBE_flanderswallonia_neutrality:0 "Flandern-Wallonien"
@@ -326,11 +335,11 @@
  RP_syria_france_communist_neutrality:0 "Kingdom of Syria"
  RP_syria_france_communist_neutrality_DEF:0 "the Kingdom of Syria"
 
- RP_COG_civil_war_belgium:0 "Belgium Colonial Administrative Government"
- RP_COG_civil_war_belgium_DEF:0 "the Belgium Colonial Administrative Government"
+ RP_BEL_incongo:0 "Léopoldville Provisional Government"
+ RP_BEL_incongo_DEF:0 "the Léopoldville Provisional Government"
 
- RP_COG_civil_war_congo:0 "UCSM"
- RP_COG_civil_war_congo_DEF:0 "the United Congolese Seperatist Militias"
+ RP_COG_freefighters:0 "Congo Revolutionary Army"
+ RP_COG_freefighters_DEF:0 "the Congo Revolutionary Army"
  
  # Customization
 

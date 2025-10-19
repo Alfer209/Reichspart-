@@ -179,6 +179,16 @@
  KLI_neutrality_DEF:0 "das Großfürstentum Litauen"
  KLI_ADJ:0 "Lithuanian"
 
+ KCS_democratic:0 "Courland-Semigallia"
+ KCS_democratic_DEF:0 "Courland-Semigallia"
+ KCS_fascism:0 "New Courland"
+ KCS_fascism_DEF:0 "New Courland"
+ KCS_communism:0 "Socialist Union of Courland-Semigallia"
+ KCS_communism_DEF:0 "the Socialist Union of Courland-Semigallia"
+ KCS_neutrality:0 "Herzogtum Kurland und Semgallen"
+ KCS_neutrality_DEF:0 "das Herzogtum Kurland und Semgallen"
+ KCS_ADJ:0 "Courlandian"
+
  KLV_democratic:0 "Republic of Livonia"
  KLV_democratic_DEF:0 "the Republic of Livonia"
  KLV_fascism:0 "Livonian State"

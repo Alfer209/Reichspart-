@@ -175,3 +175,8 @@
   # That weird russian guy
 
   KRU_neutrality_party:0 "House of Holstein-Gottorp-Romanov"
+
+  # House of Baden
+
+  KCS_neutrality_party:0 "House of Talleyrand-Périgord"
+  KCS_neutrality_party_german:0 "House of Baden"
